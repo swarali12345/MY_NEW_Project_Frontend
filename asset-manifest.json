@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56264be8.css",
+    "main.js": "/static/js/main.fd729a7f.js",
+    "static/js/488.89f38c7e.chunk.js": "/static/js/488.89f38c7e.chunk.js",
+    "static/media/newCroppedBg.jpg": "/static/media/newCroppedBg.6129751466ebb5769233.jpg",
+    "static/media/background.jpg": "/static/media/background.d54c8eef0048573b9951.jpg",
+    "index.html": "/index.html",
+    "main.56264be8.css.map": "/static/css/main.56264be8.css.map",
+    "main.fd729a7f.js.map": "/static/js/main.fd729a7f.js.map",
+    "488.89f38c7e.chunk.js.map": "/static/js/488.89f38c7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56264be8.css",
+    "static/js/main.fd729a7f.js"
+  ]
+}
